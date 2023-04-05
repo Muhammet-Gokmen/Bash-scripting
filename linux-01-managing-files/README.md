@@ -47,6 +47,7 @@ line 12
 line 13
 line 14
 Line 15
+Line 16
 ```
 
 - Show the first 10 lines of clarusway.txt.
