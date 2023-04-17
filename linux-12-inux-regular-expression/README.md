@@ -51,6 +51,7 @@ kdk
 kCk
 k5k
 kalk
+klka
 ```
 
 - Search for content containing letter ‘e’.
