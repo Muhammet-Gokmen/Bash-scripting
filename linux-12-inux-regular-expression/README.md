@@ -63,7 +63,7 @@ cat fruits.txt | grep e
 ### `.` symbol
 
 ```bash
-cat fruits.txt | grep k.k
+cat fruits.txt | grep k.kk
 ```
 
 ### `^` symbol
