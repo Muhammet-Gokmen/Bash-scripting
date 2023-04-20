@@ -40,7 +40,7 @@ At the end of the this hands-on training, students will be able to;
 ```bash
 KEY=value
 _VAR=5
-clarus_way=test
+clarus_way=test1
 ```
 
 > Note that there is no space on either side of the equals ( = ) sign. 
