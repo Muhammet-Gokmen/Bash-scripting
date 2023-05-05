@@ -69,10 +69,10 @@ head -5 clarusway.txt
 tail clarusway.txt
 ```
 
-- Show the last 6 lines of clarusway.txt.
+- Show the last 4 lines of clarusway.txt.
 
 ```bash
-tail -6 clarusway.txt
+tail -4 clarusway.txt
 ```
 
 - Display the clarusway.txt file on the screen.
